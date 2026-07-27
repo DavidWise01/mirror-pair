@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 134
 slug  : mirror-pair
-seal  : 7ded8edfa28e6440930e49f294c3970829a3d8a42abe6e4aae6d2e8e9932329d
-prev  : 8d1e95a089a184d7dd63d920bf7eafc8c3dc14102e5f14c91cc00e3f37491b36
-link  : df7759874258bcf1157f2a935fa03b3df7b2f162d93f0911fe4a9166f7dd9265
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+seal  : 9fc7a098e127cd2fa6f606b4822bf2de1905699a62167b3cd2715b1b9df9cbd0
+prev  : 37881a43046afded397099ffde3b5da294fa67797967c4c9a1a1193990c89171
+link  : 6a02dcf665e3aad09298f0754bd271828d1fc104a7acdd8e35eef27837347f1d
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
